@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JunCaiLi
 - 👀 I’m interested in front end
 - 🌱 I’m currently learning dart & flutter
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on flutter or reactjs open source project
 - 📫 How to reach me lijuncai552@gmail.com
 <!---
 JunCaiLi/JunCaiLi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
