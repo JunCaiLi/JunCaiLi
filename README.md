@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JunCaiLi
-- 👀 I’m interested in front end
+- 👀 I’m interested in full-stack
 - 🌱 I’m currently learning dart & flutter
 - 💞️ I’m looking to collaborate on flutter or reactjs open source project
 - 💬 blog [juejin.cn](https://juejin.cn/user/211522351275271/posts)
