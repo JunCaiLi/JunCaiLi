@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JunCaiLi
+- 👋 Hi,
 - 👀 I’m interested in full-stack
 - 🌱 I’m currently learning dart & flutter
 - 💞️ I’m looking to collaborate on flutter or reactjs open source project
